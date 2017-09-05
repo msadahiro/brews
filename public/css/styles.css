@@ -1,0 +1,28 @@
+body{
+    background-color: cornsilk;
+}
+.home-container{
+    text-align: center;
+    margin: 0 auto;
+}
+.home-container img{
+    width: 100px;
+    height: 400px;;
+}
+.home-container p{
+    width: 500px;
+    margin:20px auto;
+
+}
+.beer-description{
+    font-size: 14px;
+}
+
+/*ACCORDION*/
+
+.accordion-container{
+    position: fixed;
+    top: 30%;
+    width: 1100px;
+    text-align: right;
+}
